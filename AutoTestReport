@@ -1,0 +1,17 @@
+→ https://www.onliner.by/
+  GET https://www.onliner.by/ [200 OK, 244.01KB, 816ms]
+  √  Body matches string
+  √  Response time is less than 200ms
+  √  Status code is 200
+
+→ https://vk.com/feed
+  GET https://vk.com/feed [200 OK, 6.04KB, 1935ms]
+  √  Body matches string
+  √  Status code is 200
+  √  Status code is 200
+
+→ https://www.tut.by/
+  GET https://www.tut.by/ [200 OK, 393.47KB, 2.2s]
+  1. Response time is less than 200ms
+  √  Body matches string
+  √  Status code is 200
